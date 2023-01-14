@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desfioReact1/static/css/main.95b68aa3.css",
+    "main.js": "/desfioReact1/static/js/main.7b7c0993.js",
+    "index.html": "/desfioReact1/index.html",
+    "main.95b68aa3.css.map": "/desfioReact1/static/css/main.95b68aa3.css.map",
+    "main.7b7c0993.js.map": "/desfioReact1/static/js/main.7b7c0993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b68aa3.css",
+    "static/js/main.7b7c0993.js"
+  ]
+}
